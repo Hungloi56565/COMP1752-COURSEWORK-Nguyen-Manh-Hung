@@ -10,11 +10,6 @@ def load_library(filename="music.csv"):
     Load the music library from a CSV file.
     Each track is stored as a LibraryItem object in the global library dictionary.
     
-    Args:
-        filename (str): The name of the CSV file to load. Defaults to "music.csv".
-    
-    Raises:
-        FileNotFoundError: If the specified file does not exist
     """
     global library
     library.clear()  # Clear existing library
@@ -34,8 +29,6 @@ def list_all():
     Generate a formatted string containing all tracks in the library.
     The string includes track ID, name, artist, rating (as stars), and play count.
     
-    Returns:
-        str: A formatted string containing all track information
     """
     output = ""
     for key, item in library.items():
@@ -47,11 +40,7 @@ def get_name(key):
     """
     Get the name of a track by its key.
     
-    Args:
-        key (str): The track's unique identifier
-    
-    Returns:
-        str: The track's name, or None if the track doesn't exist
+
     """
     return library[key].name if key in library else None
 
