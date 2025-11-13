@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\GUI 1\GUI 1\bin\Debug\GUI 1.exe.config
+C:\Users\ADMIN\source\repos\GUI 1\GUI 1\bin\Debug\GUI 1.exe
+C:\Users\ADMIN\source\repos\GUI 1\GUI 1\bin\Debug\GUI 1.pdb
+C:\Users\ADMIN\source\repos\GUI 1\GUI 1\obj\Debug\GUI 1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\GUI 1\GUI 1\obj\Debug\GUI_1.mainFrm.resources
+C:\Users\ADMIN\source\repos\GUI 1\GUI 1\obj\Debug\GUI_1.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\GUI 1\GUI 1\obj\Debug\GUI 1.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\GUI 1\GUI 1\obj\Debug\GUI 1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\GUI 1\GUI 1\obj\Debug\GUI 1.exe
+C:\Users\ADMIN\source\repos\GUI 1\GUI 1\obj\Debug\GUI 1.pdb
+C:\Users\ADMIN\source\repos\GUI 1\GUI 1\obj\Debug\GUI 1.exe.config
